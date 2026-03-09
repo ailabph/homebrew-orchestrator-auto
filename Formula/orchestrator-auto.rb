@@ -3,8 +3,8 @@ class OrchestratorAuto < Formula
 
   desc "Automated two-agent orchestrator workflow using Claude Agent SDK"
   homepage "https://github.com/ailabph/claude-ai-workflows"
-  url "https://files.pythonhosted.org/packages/7c/51/51e49b0317476defa3aa20b54be4db832699fe0f7bfde07191e4df2d180f/orchestrator_auto-1.9.0.tar.gz"
-  sha256 "367409fb59b963e482e681cea67e3040726d5d1f6c95ce2569f730474a8915da"
+  url "https://files.pythonhosted.org/packages/1d/d8/6a9041a935a3f72e36331a99e0cb65690f8a4e9644451fd12645627049e1/orchestrator_auto-1.9.1.tar.gz"
+  sha256 "fd8fa65a4e94030e145daec4cf80c34dacc52669b9268bc82278f8dbc9f2ff3d"
   license "MIT"
 
   depends_on "python@3.13"
