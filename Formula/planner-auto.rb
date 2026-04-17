@@ -3,8 +3,8 @@ class PlannerAuto < Formula
 
   desc "AI planning session manager with Claude planner and GPT reviewer"
   homepage "https://github.com/ailabph/claude-ai-workflows"
-  url "https://files.pythonhosted.org/packages/83/7c/7d7f71e580e3b2170950381be6fc98368b6af23f9e9c10d086779ad882f3/planner_auto-0.6.1.tar.gz"
-  sha256 "16555a435560239c503dd994d411bae5b8c9aa6f6e84edc74221b987d652c52f"
+  url "https://files.pythonhosted.org/packages/f0/c7/9ab5c8164febd18adec0d3ddd413c8a1a7ccab5cd3c058698d70c460998b/planner_auto-0.6.2.tar.gz"
+  sha256 "d6faf79e00009986802fb87dfced0be6f153f204f534f772957a6bd3d884ece4"
   license "MIT"
 
   depends_on "python@3.13"
